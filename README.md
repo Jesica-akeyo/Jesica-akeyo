@@ -1,7 +1,11 @@
 ### Hi there 👋
+### สวัสดี👏
+### Merhaba😁
+### Jambo😄
+### 안녕하세요😁
 
 # 💫 About Me:
-🔭I am currently a student in the Alx-Holberton Software Engineering program<br>🎓 I am a BSc. Pure and Applied Mathematics graduate<br>🕵️‍♀️ I'm interested in all things data<br>🖥️ Fluent in C, Python, SPSS and STATA<br>📚 Currently learning Javascript, SQL 
+🔭I am currently a student in the Alx-Holberton Software Engineering program<br>🎓 I am a BSc. Pure and Applied Mathematics graduate<br>🕵️‍♀️ I'm interested in all things data<br>🖥️ Fluent in C, Python, SPSS and STATA<br>📚 Currently learning Javascript, SQL<br>✨ For fun i love to watch Kdramas and Thaidramas, read novels,and learn new languages
 
 
 # 💻 Tech Stack:
