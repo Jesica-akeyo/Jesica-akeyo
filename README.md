@@ -110,12 +110,7 @@
 <!-- BLOG-POST-LIST:START -->  
 https://medium.com/@jessica.akeyo/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-1355e5e82809 
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jesica-akeyo&&style=flat-square" align="center" />
