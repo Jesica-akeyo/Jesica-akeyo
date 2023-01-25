@@ -123,4 +123,4 @@ https://medium.com/@jessica.akeyo/what-happens-when-you-type-google-com-in-your-
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
