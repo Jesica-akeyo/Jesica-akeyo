@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Jesica, a Pure and Applied Mathematician, Data science enthusiast and a Software engineering student 👨‍💻 with a dream of becoming a full-stack data analyst🚀</div>  
+### <div align="center">I'm Jesica, a Pure and Applied Mathematician, Data science enthusiast and a Software engineering graduate 👨‍💻 with a dream of becoming a full-stack data analyst🚀</div>  
   
 
-- 🔭 I’m currently enrolled in the ALX-Holberton Software Engineering program where I majored in Back end
+- 🔭 I’m a graduate of the ALX-Holberton Software Engineering program where I majored in Back end development
   
   
 
